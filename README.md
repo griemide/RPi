@@ -1,9 +1,11 @@
 # RPi
 Raspberry Pi projects
 
-## Hardware
+Homepage [Products](https://www.raspberrypi.org/products/)
 
-* [** Raspberry Pi Zero W**](https://github.com/griemide/RPiZW/blob/main/README.md)
-* [** Raspberry Pi 3B+**](https://github.com/griemide/RPi3B/blob/main/README.md)
+## Used Hardware
+
+* [** Raspberry Pi Zero W**](https://github.com/griemide/RPiZW)
+* [** Raspberry Pi 3B+**](https://github.com/griemide/RPi3B)
 
 
