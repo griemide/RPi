@@ -9,4 +9,8 @@ Raspberry Org Homepage [Products](https://www.raspberrypi.org/products/)
 * [Raspberry Pi **Zero W**](https://github.com/griemide/RPiZW) 2020-10 (DIN Rail)
 * [Raspberry Pi **Zero W**](https://github.com/griemide/RPiZW2) 2020-11 (Testing)
 
+## References
+
+Elektronik Kompendium [Raspberry Pi](http://www.elektronik-kompendium.de/sites/raspberry-pi/index.htm)
+
 
