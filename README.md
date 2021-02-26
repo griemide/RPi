@@ -12,7 +12,8 @@ Raspberry Org Homepage [Products](https://www.raspberrypi.org/products/)
 
 
 ## Backup
-[Raspberry Org](https://www.raspberrypi.org/documentation/linux/filesystem/backup.md)
+Manual [Backup](https://www.raspberrypi.org/documentation/linux/filesystem/backup.md)  
+Blog [Backup im laufenden Betrieb](https://hilftdirweiter.de/backup-des-raspberry-pi-im-laufenden-betrieb/) ()
 
 ## References
 
