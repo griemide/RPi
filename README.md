@@ -3,6 +3,8 @@ Raspberry Pi related docs and projects
 
 Raspberry Org Homepage [Products](https://www.raspberrypi.org/products/)
 
+![RPi3](images/raspberry-pi-3.jpg)
+
 ## Used Hardware
 
 * [Raspberry Pi **3 Modell B**](https://github.com/griemide/RPi3B) 2016-10 (Kodi)
