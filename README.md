@@ -15,8 +15,8 @@ Raspberry Org Homepage [Products](https://www.raspberrypi.org/products/)
 
 ## Backup
 Guide [Backup](https://www.raspberrypi.org/documentation/linux/filesystem/backup.md)  
-Blog [Backup im laufenden Betrieb](https://hilftdirweiter.de/backup-des-raspberry-pi-im-laufenden-betrieb/) (deutsch)
-Tool [MiniTool Partition Wizard Free](https://www.minitool.com/) (freeware)
+Blog [Backup im laufenden Betrieb](https://hilftdirweiter.de/backup-des-raspberry-pi-im-laufenden-betrieb/) (deutsch)  
+Tool [MiniTool Partition Wizard Free](https://www.minitool.com/)
 
 ## References
 
