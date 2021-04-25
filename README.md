@@ -24,7 +24,6 @@ Blog [Backup im laufenden Betrieb](https://hilftdirweiter.de/backup-des-raspberr
 Tool [MiniTool Partition Wizard Free](https://www.minitool.com/)
 
 ## References
-
 * Elektronik Kompendium [Raspberry Pi](http://www.elektronik-kompendium.de/sites/raspberry-pi/index.htm)
 
 
