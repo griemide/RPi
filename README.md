@@ -12,6 +12,11 @@ Raspberry Org Homepage [Products](https://www.raspberrypi.org/products/)
 * [Raspberry Pi **Zero W 2**](https://github.com/griemide/RPiZW2) 2020-11 (Power Strip)
 * [Raspberry Pi **Zero W 3**](https://github.com/griemide/RPiZW3) 2021-01 (Testing)
 
+## Configuration
+Change Hostname, Timezone, ecetera  
+Manual [Grundkonfiguration](http://www.elektronik-kompendium.de/sites/raspberry-pi/1906291.htm) - german
+```sudo raspi-config```  
+E.g. Timezone [example](images/raspi-config_locales.jpg)  
 
 ## Backup
 Guide [Backup](https://www.raspberrypi.org/documentation/linux/filesystem/backup.md)  
@@ -20,6 +25,6 @@ Tool [MiniTool Partition Wizard Free](https://www.minitool.com/)
 
 ## References
 
-Elektronik Kompendium [Raspberry Pi](http://www.elektronik-kompendium.de/sites/raspberry-pi/index.htm)
+* Elektronik Kompendium [Raspberry Pi](http://www.elektronik-kompendium.de/sites/raspberry-pi/index.htm)
 
 
