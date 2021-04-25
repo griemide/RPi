@@ -3,7 +3,7 @@ Raspberry Pi related docs and projects
 
 Raspberry Org Homepage [Products](https://www.raspberrypi.org/products/)
 
-![RPi3](images/raspberry-pi-3.jpg)
+![RPi3](images/raspberry-pi-3.jpg) ![RPiZW](images/raspberry-pi-zero-w.jpg)
 
 ## Used Hardware
 
