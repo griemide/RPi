@@ -5,12 +5,12 @@ Raspberry Org Homepage [Products](https://www.raspberrypi.org/products/)
 
 ![RPi3](images/raspberry-pi-3.jpg) ![RPiZW](images/raspberry-pi-zero-w.jpg)
 
-## Used Hardware
+## Used Hardware / Projects (private)
 
-* [Raspberry Pi **3 Modell B**](https://github.com/griemide/RPi3B) 2016-10 (Kodi)
+* [Raspberry Pi **3 Modell B**](https://github.com/griemide/RPi3B) 2016-10 (Kodi, Flightradar24)
 * [Raspberry Pi **Zero W 1**](https://github.com/griemide/RPiZW) 2020-10 (DIN Rail)
 * [Raspberry Pi **Zero W 2**](https://github.com/griemide/RPiZW2) 2020-11 (Power Strip)
-* [Raspberry Pi **Zero W 3**](https://github.com/griemide/RPiZW3) 2021-01 (Testing)
+* [Raspberry Pi **Zero W 3**](https://github.com/griemide/RPiZW3) 2021-01 (Test-System only, e.g. Node-RED)
 
 ## Configuration
 Change Hostname, Timezone, ecetera  
