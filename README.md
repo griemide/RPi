@@ -1,4 +1,4 @@
-# RPi
+# Raspberry Pi (RPi)
 Raspberry Pi related docs and projects
 
 Raspberry Org Homepage [Products](https://www.raspberrypi.org/products/)
