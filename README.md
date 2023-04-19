@@ -3,7 +3,8 @@ Raspberry Pi related docs and projects
 
 Raspberry Org Homepage [Products](https://www.raspberrypi.org/products/)
 
-![RPi3](images/raspberry-pi-3.jpg) ![RPiZW](images/raspberry-pi-zero-w.jpg)
+![RPi3](images/raspberry-pi-3.jpg) ![RPiZW](images/raspberry-pi-zero-w.jpg) 
+<img width="300" alt="2023-04-10" src="images/raspberry-pi-pico-w.jpg"> 
 
 ## Used Hardware / Projects (private)
 
@@ -11,6 +12,9 @@ Raspberry Org Homepage [Products](https://www.raspberrypi.org/products/)
 * [Raspberry Pi **Zero W 1**](https://github.com/griemide/RPiZW) 2020-10 (DIN Rail)
 * [Raspberry Pi **Zero W 2**](https://github.com/griemide/RPiZW2) 2020-11 (Power Strip)
 * [Raspberry Pi **Zero W 3**](https://github.com/griemide/RPiZW3) 2021-01 (Test-System only, e.g. [Node-RED](https://github.com/griemide/Node-RED))
+* [Raspberry Pi **Pico W 1**](https://github.com/griemide/RPiPW1) 2023-04 (DIN RAIL af104-fsz2,  [MicroPython](https://github.com/griemide/MicroPython))
+* [Raspberry Pi **Pico W 2**](https://github.com/griemide/RPiPW1) 2023-04 (Test-System only, e.g. [MicroPython](https://github.com/griemide/MicroPython))
+
 
 ## Configuration
 Change Hostname, Timezone, ecetera  
